@@ -1,7 +1,5 @@
 # Create Account Testing Project
 
-This update improves documentation clarity.
-
 This project is a simple Java application developed using Maven.
 
 ## Description
